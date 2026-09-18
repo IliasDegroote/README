@@ -19,4 +19,4 @@ _i go to school at Het Spectrum Gent in Belgium_ :bus:
 
 ## Images
 
-![Cycling team](https://kommodo.ai/i/Fde9VJieJd1sXqxndNbO)
+[![2026 Tour De France Teams Lidl Trek](https://i.im.ge/QQr4AaS/2026-tour-de-france-teams-lidl-trek.webp)](https://im.ge/i/QQr4AaS)
